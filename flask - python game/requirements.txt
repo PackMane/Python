@@ -1,5 +1,5 @@
 EditorConfig==0.12.1
-Flask==0.12.2
+Flask==1.0
 Flask-Session==0.3.1
 Jinja2==2.10
 MarkupSafe==1.0

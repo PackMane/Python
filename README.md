@@ -4,12 +4,9 @@ Mario
 
 Implement a program that prints out a half-pyramid of a specified height, per the below.
 $ ./mario
-Height: 4
-#
-##
-###
-####
+
 Cash
+
 Implement a program that calculates the minimum number of coins required to give a
 user change.
 $ python cash.py
